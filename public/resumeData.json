@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Vimal Gupta",
+    "description":"Student in IIIT Pune,Web Developer and I use react,javascript to develop pages. This is a portfolio website based on template by Nordic Giant. I a Currently Learning DataStructures ... \n and you can know more about me by just scrolling down :)",
+    "image":"profilepic.jpg",
+    "bio":"A Curious Person fond of Learning And Reading. Favourite Book-Alchemist By Paulo Coelho ",
+    "contactmessage":"In Case You wanted to Contact...",
+    "email": "vimalg833@gmail.com",
+    "phone": "+91 8755328062",
+    "github":"https://github.com/vimalgupta24",
+    "project":"https://attendlt-official.web.app/welcome",
+    "address":{
+      "street":"Sikandarpur",
+      "city":"Mathura",
+      "state":"UttarPradesh",
+      "zip": "281205"
+    },
+    "website": "https://we-got-you.herokuapp.com/",
+    "resumedownload":"https://drive.google.com/file/d/1NzGYvqFmnZd0Sb1HnIY3skYuFBo9Q3Fc/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/vimal2602",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/dcrazy1_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/vimal-gupta/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/euphoricvim",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/vimalgupta24",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I Have also been learning about machine learning,datastructure and algorithm,Database Management System..",
+    "education":[
+      {
+        "school":"Indian Institute of Information Technology,Pune",
+        "degree":"Bachelor of Technology",
+        "graduated":"2019-2023",
+        "description":"Electronics and Communication Engineering."
+      },
+      {
+        "school":"Brij Sthali Academy Senior Secondary School",
+        "degree":"Higher Secondary School Certificate",
+        "graduated":"2017-18",
+        "description":"Passed well enough with 88.2% grade"
+      },
+      {
+        "school":"Brij Sthali Academy Senior Secondary School",
+        "degree":"Secondary School Certificate",
+        "graduated":"2015-16",
+        "description":"Passed with 10.0 CGPA."
+      }
+    ],
+    "work":[
+      {
+        "company":"Currently Looking for Internship And Job",
+        "title":"",
+        "years":"2021-",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"84%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"74%"
+      },
+      {
+        "name":"JAVA",
+        "level":"44%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Attendlt:Virtualising the Future",
+        "category":"Image Processing ,Web based ATTENDANCE SYSTEM ",
+        "image":"01.jpg",
+        "url":"https://attendlt-official.web.app/welcome"
+      },
+      {
+        "title":"We-Got-You",
+        "category":"Project made using streamlit and some basic python to help people and encourage and make people aware more about mental health issues.",
+        "image":"02.jpg",
+        "url":"https://we-got-you.herokuapp.com/"
+      },
+      {
+        "title":"Covid-19 Forecasting",
+        "category":"Project made using ARIMA Model for cases Forecasting using Time series",
+        "image":"03.jpg",
+        "url":"https://github.com/vimalgupta24/Time-Series-Forecasting"
+      },
+      {
+        "title":"Movie-Recommendation System",
+        "category":"Using Bag of words technique to filter out the data,Recommends Movies as per User's Choice,Having Almost 5000 Movies Database.",
+        "image":"04.jpg",
+        "url":"https://github.com/vimalgupta24/Movies-Recommendation-System"
+      }
+
+    ]
+  }
+}
